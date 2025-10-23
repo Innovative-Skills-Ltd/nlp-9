@@ -12,6 +12,8 @@ for page in doc:
 
 print(texts)
 
+#docx file load, json
+
 doc.close()
 
 
